@@ -1,0 +1,62 @@
+{
+   "page": 2,
+   "pages": 3,
+   "per_page": 9,
+   "total": 24,
+   "pictures": [
+      {
+         "id": 10,
+         "url": "/gallery/image-11.png",
+         "date": "April 15, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 11,
+         "url": "/gallery/image-12.png",
+         "date": "April 30, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 12,
+         "url": "/gallery/image-13.png",
+         "date": "May 15, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 13,
+         "url": "/gallery/image-14.png",
+         "date": "May 30, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 14,
+         "url": "/gallery/image-15.png",
+         "date": "June 15, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 15,
+         "url": "/gallery/image-16.png",
+         "date": "June 30, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 16,
+         "url": "/gallery/image-17.png",
+         "date": "July 15, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 17,
+         "url": "/gallery/image-18.png",
+         "date": "July 30, 2024",
+         "link": "https://drive.google.com"
+      },
+      {
+         "id": 18,
+         "url": "/gallery/image-19.png",
+         "date": "August 15, 2024",
+         "link": "https://drive.google.com"
+      }
+   ]
+}
