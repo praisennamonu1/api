@@ -1,0 +1,65 @@
+{
+   "alumni": [
+      {
+         "id": 1,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 2,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 3,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 4,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 5,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 6,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 7,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 8,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 9,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      },
+      {
+         "id": 10,
+         "url": "/about-us/r2k-top.png",
+         "name": "Lorem Ipsum",
+         "position": "President, RCFUI"
+      }
+
+   ]
+}
